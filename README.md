@@ -31,23 +31,6 @@ We are looking for contributors to **design and develop a landing page** for our
 
 ---
 
-## **Repository Structure**
-
-Here’s what you’ll find in the repository:
-
-```plaintext
-/
-├── index.html            # Main HTML file (start here for the landing page)
-├── assets/               # Folder for images, videos, and other media assets
-├── css/                  # Folder for CSS stylesheets
-├── js/                   # Folder for JavaScript files
-├── connect.md            # Contributor contact information file (to be added)
-├── resources.md          # Optional: Document for listing resources used
-└── README.md             # This file
-```
-
----
-
 ## **Technologies Preferred**
 
 To align with the project’s technology stack, we encourage contributors to use the following technologies when building the landing page or contributing to the website:
@@ -72,6 +55,23 @@ To align with the project’s technology stack, we encourage contributors to use
   - **JWT** (For authentication)
 
 While these technologies are preferred, feel free to explore alternatives, but please ensure that the code remains maintainable and scalable.
+
+---
+
+## **Repository Structure**
+
+Here’s what you’ll find in the repository:
+
+```plaintext
+/
+├── index.html            # Main HTML file (start here for the landing page)
+├── assets/               # Folder for images, videos, and other media assets
+├── css/                  # Folder for CSS stylesheets
+├── js/                   # Folder for JavaScript files
+├── connect.md            # Contributor contact information file (to be added)
+├── resources.md          # Optional: Document for listing resources used
+└── README.md             # This file
+```
 
 ---
 
