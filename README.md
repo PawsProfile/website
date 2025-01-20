@@ -17,7 +17,7 @@ We are looking for contributors to **design and develop a landing page** for our
 2. **Design and Develop**: Create the landing page and ensure it reflects creativity, professionalism, and user-centric design.
 3. **Add a `connect.md` File**: Include a new `connect.md` file in the root directory with your LinkedIn profile or work email for further collaboration.
 4. **Document Any Resources Used**: If your design uses stock footage, assets, or images, clearly document them in your code comments or a separate `resources.md` file. Ensure all assets used are **free to use and properly attributed**. You can use placeholder images if needed.
-5. **Submit a PR**: Once your landing page is ready, submit a pull request to this repository.
+5. **Submit a PR**: Once your landing page is ready, submit a pull request to this repository on the `develop` branch.
 
 ---
 
