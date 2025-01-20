@@ -1,1 +1,0 @@
-Please delete this file/folder based on your needs. This file is a placeholder to help you understand how to structure your contributions. If you have any questions, please reach out to us on our [LinkedIn Page](https://www.linkedin.com/company/pawsprofile/). We're happy to help! 🐾
