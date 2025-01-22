@@ -1,1 +1,3 @@
-Please mention the sources of any assets used in your design, such as images, videos, or icons. If you used any stock footage, icons, or other assets, list them here with appropriate credits and links. Ensure all assets are free to use and properly attributed.
+Techstacks Used - ReactJs,TailwindCSS
+
+images - https://unsplash.com/
