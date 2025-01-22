@@ -12,6 +12,6 @@ PawsProfile is a beautifully designed landing page built with ReactJS and Tailwi
 
 3> Install dependencies using: npm Install
 
-4>now to run locally run: npm run dev
+4>now to run locally type: npm run dev
 
     
